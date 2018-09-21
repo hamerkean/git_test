@@ -8,10 +8,8 @@ line7
 
 topic-A
 
-<<<<<<< HEAD
 topic-B
-=======
+
 topic-C
->>>>>>> topic-C
 
 test
